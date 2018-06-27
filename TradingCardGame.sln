@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingCardGame", "TradingCardGame\TradingCardGame.csproj", "{60697E59-D91D-414D-837C-029EDCF07D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingCardGameTests", "TradingCardGameTests\TradingCardGameTests.csproj", "{501FF068-952E-49E7-ABAA-E525EFE76C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60697E59-D91D-414D-837C-029EDCF07D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60697E59-D91D-414D-837C-029EDCF07D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60697E59-D91D-414D-837C-029EDCF07D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60697E59-D91D-414D-837C-029EDCF07D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501FF068-952E-49E7-ABAA-E525EFE76C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501FF068-952E-49E7-ABAA-E525EFE76C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501FF068-952E-49E7-ABAA-E525EFE76C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501FF068-952E-49E7-ABAA-E525EFE76C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DB119A-446D-460A-B4FB-FB0671A5F342}
+	EndGlobalSection
+EndGlobal
